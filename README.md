@@ -4,4 +4,4 @@
 
 ## 🚀 About Me
 - I'm a freetime coder
-- I code in java, python and sometimes c# or c++
+- I code in java, python and sometimes c++
